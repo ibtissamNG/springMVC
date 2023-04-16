@@ -13,3 +13,4 @@ The main purpose behind this app was to know how things work before moving to sp
 - MySQL
 - JPA
 - Hibernate
+ 
